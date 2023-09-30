@@ -1,11 +1,15 @@
-![header](https://capsule-render.vercel.app/api?text=WELCOME!&type=soft)
-#
-<div align="center>
-  
-### This is Seungheon's Github👋
 
-  - 🔭 I’m a Computer Engineering Student at KHU
-  - 🌱 I’m currently learning Spring, NestJS
+#
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?text=WELCOME!&type=soft)
+  
+  ### This is Seungheon's Github👋
+<div>
+🔭 I’m a Computer Engineering Student at KHU
+  <br/>
+🌱 I’m currently studying Spring, NestJS
+</div>
 
 ### Tech Stack
   <div>
@@ -17,7 +21,7 @@
     <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
     <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"> 
   </div>
-  
+
  #
   ### Github Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungheon123&show_icons=true&theme=tokyonight)
@@ -27,8 +31,14 @@
 #
   ### Baekjoon Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=seungheon01230)](https://solved.ac/seungheon01230)
+  
 
 </div>
+
+
+
+  
+
 
 
 <!--
