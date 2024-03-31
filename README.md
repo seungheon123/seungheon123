@@ -31,9 +31,7 @@
   <br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungheon123&layout=compact&theme=tokyonight)
 
-#
-  ### Baekjoon Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=seungheon01230)](https://solved.ac/seungheon01230)
+
   
 
 </div>
